@@ -195,7 +195,7 @@ To install the ear-shaped module to the box, follow these steps:
 
 **7. Install Buttons:** Install the buttons and solder them to the Arduino.
 
-**8. Install the Cover:** Laser cut (Abdeckung.dfx) and install the cover (in the bottom part of the box) to protect the cables from being ripped out during transportation. 
+**8. Install the Cover:** Laser cut (Abdeckung_Levitator.dfx) and install the cover (in the bottom part of the box) to protect the cables from being ripped out during transportation. 
 
 **9. Test:** Test that everything is working correctly. If necessary, solder any connections that need adjustment.
 
