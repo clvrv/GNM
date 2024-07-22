@@ -1,4 +1,4 @@
-# Acoustic Levitator
+![319523205-5173c0f6-0d28-48f7-96ac-889d97e8fc29](https://github.com/user-attachments/assets/32b98478-8b15-47ca-858e-df0c27436936)# Acoustic Levitator
 
 **Defying Gravity with Sound Waves!**
 
@@ -40,7 +40,7 @@ Prepare the following tools for assembly:
 
 Here is the electronic schematics: 
 
-![electronics-schematics-levitator_02](https://github.com/xstageproject/experiments/assets/78161180/5bd645b4-7fe7-4155-9720-b677664a749d)
+![319501143-5bd645b4-7fe7-4155-9720-b677664a749d](https://github.com/user-attachments/assets/8950b872-4c36-4c1d-82bb-9b5f6d7d0a0f)
 
 **Attention:**
 * The setup came with an **unsuitable power supply** - it is important that it is **not higher than 10V, otherwise it will be overheated!** To overcome this problem, I built in **a decoy module instead of the DC Barrel**, where you can choose the voltage that goes into the electronics. To use this module you need a power supply with a range from 5V to 20V. I chose this one with 45W, but there are many that work. **I set it to 9V!**. Here are the elements use:
@@ -69,7 +69,7 @@ The design features a single-axis, non-resonant acoustic levitator. It's built a
 
 This levitator is user-friendly and designed for longevity, requiring lower operating voltages than what you'd typically see in laboratory settings. Traditional lab setups often depend on high-voltage Langevin horns to generate significant sound pressure from a single source. These horns are sensitive to temperature, difficult to tune to a specific frequency and potentially dangerous because of the high voltage. The idea of using an array of transducers is analogous to moving from a single powerful lamp to an array of light-emitting diodes (LEDs).  
 
-![electronics-schematics-levitator](https://github.com/xstageproject/experiments/assets/78161180/284263c8-ca0f-47e7-8845-c67f31021234)
+![315937722-284263c8-ca0f-47e7-8845-c67f31021234](https://github.com/user-attachments/assets/087c06f7-81dc-4387-9bf1-bbdcffdc2b90)
 
 Unlike _resonant_ configurations that use one emitter facing a reflector, our _non-resonant_ setup employs two opposing emitters. While resonant setups might be more efficient, they're also more prone to issues with temperature changes and require precise alignment. The system stands out for its versatility and stability, capable of working flawlessly within a wide temperature range (-40°C to +40°C) without the need for recalibration. This makes it a better option for diverse applications.
 
@@ -165,6 +165,8 @@ Instructions:
  <img src="https://github.com/user-attachments/assets/cc461930-4dad-4e5d-9387-710ae3fb3ae5" alt="Alt text" style="width:33%; height:auto; display:inline-block;">   
  <img src="https://github.com/user-attachments/assets/48186855-68b6-4b20-8b47-78c79db2ce99" alt="Alt text" style="width:33%; height:auto; display:inline-block;">   
 </p>
+
+
 
 
 **Assemblying the two parts**
