@@ -1,4 +1,4 @@
-![319523205-5173c0f6-0d28-48f7-96ac-889d97e8fc29](https://github.com/user-attachments/assets/32b98478-8b15-47ca-858e-df0c27436936)# Acoustic Levitator
+# Acoustic Levitator
 
 **Defying Gravity with Sound Waves!**
 
@@ -96,9 +96,8 @@ First, we construct the box without the support for the levitator. Then we const
 1. Cut 4 equal pieces with the measurements H 110 mm, L 350 mm, T 12mm and a bevel cut (45°) on both edges like in the following sketch (view from the side):
 
 <p align="center">
-<img width="288" alt="Bildschirmfoto 2024-04-04 um 11 37 13" src="https://github.com/xstageproject/experiments/assets/78161180/62a93e29-fa45-40d5-9468-e49bf2a7e9cf">
+<img width="288" alt="Bildschirmfoto 2024-04-04 um 11 37 13" src="https://github.com/user-attachments/assets/5dd72cf2-cf75-4f03-8451-b7542f99413b">
 </p>
-
 
 2. Cut/mill on the inner side of each of the pieces a slit (with a depth of 10 mm) - or milling a groove in wood, deutsch: eine Nut fräsen - that is as thick as the wood, like this: 
 <p align="center">
@@ -114,7 +113,7 @@ The idea is that the floor panel will be glued into the slit of each side.
 1. Cut a square of 360x360 mm. The bottom appears to be longer than the walls, but it is not. The measurements are chosen this way because the length of the walls (350 mm) plus the depth of the material (12 mm) gives a total length of the box of 362 mm. By having a floor panel that is 360 mm long, we can insert it into the 10 mm slit of the wall panels, giving us a visible floor of 350 mm. 
  
 <p align="center">
-  <img width="486" src="https://github.com/xstageproject/experiments/assets/78161180/5173c0f6-0d28-48f7-96ac-889d97e8fc29" alt="standing" style="width:40%; height:auto;">
+  <img width="486" src="https://github.com/user-attachments/assets/32b98478-8b15-47ca-858e-df0c27436936" alt="standing" style="width:40%; height:auto;">
 </p>
 
 
@@ -161,12 +160,10 @@ Instructions:
 
 **Visual Reference:**
 <p align="center">
-<img src="https://github.com/user-attachments/assets/69298355-9baf-4aea-903d-6badad0bc199" alt="Alt text" style="width:33%; height:auto; display:inline-block; margin-right: 10px;">
+<img src="https://github.com/user-attachments/assets/65985450-bf17-458d-96e8-7212982de262" alt="Alt text" style="width:33%; height:auto; display:inline-block; margin-right: 10px;">
  <img src="https://github.com/user-attachments/assets/cc461930-4dad-4e5d-9387-710ae3fb3ae5" alt="Alt text" style="width:33%; height:auto; display:inline-block;">   
- <img src="https://github.com/user-attachments/assets/48186855-68b6-4b20-8b47-78c79db2ce99" alt="Alt text" style="width:33%; height:auto; display:inline-block;">   
+ <img src="https://github.com/user-attachments/assets/f82a9c69-6ae2-4b97-b917-3013ac0da4d6" alt="Alt text" style="width:33%; height:auto; display:inline-block;">   
 </p>
-
-
 
 
 **Assemblying the two parts**
@@ -194,8 +191,8 @@ To install the ear-shaped module to the box, follow these steps:
 **6. Install Levitator:** Insert the levitator into the ear-shaped module and thread the cables through the cable duct. Screw the ear-shaped module to the box and glue the electronics to the box.
 
 <p align="center">
-     <img src="https://github.com/xstageproject/experiments/assets/78161180/1322a548-34f8-4d66-82ca-1f7ba93571db" alt="Alt text" style="width:40%; height:auto; display:inline-block; margin-right: 10px;"> 
-     <img src="https://github.com/xstageproject/experiments/assets/78161180/a0051c8e-602d-4b1b-9d20-bd1245c23256" alt="Alt text" style="width:40%; height:auto; display:inline-block;">  
+     <img src="https://github.com/user-attachments/assets/74a54f85-0f22-43ba-9fb6-b1d17def02e2" alt="Alt text" style="width:40%; height:auto; display:inline-block; margin-right: 10px;"> 
+     <img src="https://github.com/user-attachments/assets/0b661f35-0df7-4ef8-8a31-6178fc9d1aef" alt="Alt text" style="width:40%; height:auto; display:inline-block;">  
 </p>
 
 **7. Install Buttons:** Install the buttons and solder them to the Arduino.
@@ -223,15 +220,15 @@ When ultrasonic waves, emitted from transducers, intersect, they can form standi
 The core principle behind acoustic levitation is the acoustic radiation pressure exerted by the sound waves on the object. This pressure results from the momentum transfer when the sound wave interacts with an object, creating a force that can lift and suspend the object. The magnitude of this force depends on several factors, including the sound wave's amplitude, frequency, and the object's size and material.
 
 <p align="center">
-  <img width="486" src="https://github.com/xstageproject/experiments/assets/78161180/cd7b509c-d237-4d4b-b822-0b60b3653de4" alt="standing">
+  <img width="486" src="https://github.com/user-attachments/assets/825c085c-8213-4bae-9971-bbcf9f4d6453" alt="standing">
 </p>
-
 
 The arrangement of the transducers is crucial for achieving stable levitation. They are oriented and spaced to create a geometric focus, which enhances trapping forces. By modifying the excitation signal of the transducers, it is possible to control the horizontal movement of the trapped particles.
 
 <p align="center">
-<img width="286" alt="_Simulated acoustic field; each circle represents a 10 mm diameter transducer and the colour represents the emitting phase of the transducers (two driving signals are required to produce vertical movement of the traps). Image from [1]._ " src="https://github.com/xstageproject/experiments/assets/78161180/9d036c3f-8ef1-400f-abbb-ba9f02132843">
+<img width="286" alt="_Simulated acoustic field; each circle represents a 10 mm diameter transducer and the colour represents the emitting phase of the transducers (two driving signals are required to produce vertical movement of the traps). Image from [1]._ " src="https://github.com/user-attachments/assets/8822b3fa-8534-436f-84c2-9e39fbb39e82">
 <figcaption>Simulated acoustic field; each circle represents a 10 mm diameter transducer and the colour represents the emitting phase of the transducers (two driving signals are required to produce vertical movement of the traps). Image from [1].</figcaption></p>
+
 
 **Acoustic waves can trap particles of different materials and a wide range of sizes of millimetre dimensions**. 
 This is a significant difference with respect to optical trapping in which the particle size range is 0.01-10 μm and the materials need to be dielectric or optically transparent. Acoustic trapping has a ratio of trapping force to input energy orders higher than optical manipulation.  Magnetic levitation can strongly hold samples in the mid-air but only supports ferromagnetic materials. Other forms of levitation such as aerodynamic levitation agitate and alter the samples in the process, and in electrostatic levitation, the required control systems are complex and the sample materials are limited.
@@ -240,7 +237,7 @@ This is a significant difference with respect to optical trapping in which the p
 ### Ultrasound Technology
 Ultrasound refers to sound waves with frequencies above the upper audible limit of human hearing, which is about 20 kHz. Children can hear some high-pitched sounds that older adults cannot hear, because in humans the upper limit pitch of hearing tends to decrease with age. In acoustic levitation, ultrasonic frequencies are typically used because they can create smaller nodes in the standing wave pattern, allowing for the manipulation of small objects with greater precision.
 
-![850px-Ultrasound_range_diagram svg](https://github.com/xstageproject/experiments/assets/78161180/9c8a5859-201f-44a7-bc6c-05d2426bc03b)
+![315316350-9c8a5859-201f-44a7-bc6c-05d2426bc03b](https://github.com/user-attachments/assets/ace21863-6fdc-469c-932c-b00576d75970)
 
 The Acoustic Levitator's transducers are operating in the ultrasonic range, which in this case is at 40kHz.
 
