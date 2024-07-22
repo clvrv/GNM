@@ -160,10 +160,11 @@ Instructions:
 
 **Visual Reference:**
 <p align="center">
-<img src="https://github.com/user-attachments/assets/65985450-bf17-458d-96e8-7212982de262" alt="Alt text" style="width:33%; height:auto; display:inline-block; margin-right: 10px;">
+<img src="https://github.com/user-attachments/assets/78d0aa47-e126-4497-abcd-bd405e5f0223" alt="Alt text" style="width:33%; height:auto; display:inline-block; margin-right: 10px;">
  <img src="https://github.com/user-attachments/assets/cc461930-4dad-4e5d-9387-710ae3fb3ae5" alt="Alt text" style="width:33%; height:auto; display:inline-block;">   
  <img src="https://github.com/user-attachments/assets/f82a9c69-6ae2-4b97-b917-3013ac0da4d6" alt="Alt text" style="width:33%; height:auto; display:inline-block;">   
 </p>
+
 
 
 **Assemblying the two parts**
