@@ -4,7 +4,8 @@
 
 Imagine witnessing particles suspended in mid-air, as if held by invisible hands. This isn't science fiction—it's acoustic levitation in action.
 
-![DSC02902](https://github.com/xstageproject/experiments/assets/78161180/eb0e3e1a-6afd-4e93-b817-3e2d570678c2)
+![DSC02902 Kopie](https://github.com/user-attachments/assets/a9439547-914a-4b54-94ef-6a50aa655dcd)
+
 
 Acoustic levitation uses ultrasonic waves to lift objects without physical contact, where materials float freely, defying gravity. The device achieves this through carefully aligned loudspeakers emitting ultrasonic waves, forming standing waves that manipulate air pressure and create zones where objects can be levitated and manipulated with sound.
 
@@ -48,8 +49,9 @@ Here is the electronic schematics:
      * Power supply: https://www.conrad.de/de/p/ansmann-home-charger-247pd-usb-ladegeraet-45-w-steckdose-ausgangsstrom-max-3-a-anzahl-ausgaenge-2-x-usb-usb-c-buchse-2227125.html?refresh=true
      * 1 long USBc cable
 
+
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d8cfe23e-9406-4b74-9367-17c9677416b7" alt="Alt text" style="width:70%; height:auto; ">
+<img src="https://github.com/user-attachments/assets/3aec0493-4902-4630-b2b2-4b9c82bcfe09" alt="Alt text" style="width:70%; height:auto; ">
 </p>
 
  * When gluing the transducers to the 3D-printed support structure, make sure you don't use too much glue so that the shape is maintained and no transducer strays too far from the shape the support structure provides.
@@ -57,7 +59,7 @@ Here is the electronic schematics:
  * I replaced the cooling element with a larger one to make sure the levitator doesn't overheat.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/cc2bd8f9-a727-427b-82a5-62897feb3ca7" alt="Alt text" style="width:20%; height:auto;">
+<img src="https://github.com/user-attachments/assets/04df3814-f20c-406e-8cb0-9183ab03bf3c" alt="Alt text" style="width:20%; height:auto;">
 </p>
 
 * I also added a small red laser in the hole in the middle of the 3D printed part, where I removed the lens so the light is not bundled. The laser has to be soldered to 5V and ground. **Be careful when soldering, the laser is temperature sensitive!**
@@ -84,7 +86,7 @@ For assembly guidance, refer to these instructional videos:
 Construct a durable case to house the electronics and ensure the levitator's stability. We used furnished panels or screen-printed panels, birch film-coated on both sides BFU 100. You can buy the wood e.g. here in https://holz-krüger.de/.  
 
 <p align="center">
-  <img  src="https://github.com/xstageproject/experiments/assets/78161180/38c6f013-5f4b-4e94-8d0a-3b99d945aac1" alt="standing">
+  <img  src="https://github.com/user-attachments/assets/8bbea707-89eb-40df-bcf1-d6b35b0cc2ec" alt="standing">
 </p>
 
 First, we construct the box without the support for the levitator. Then we construct the ear-shaped support, and finally we assemble it.  
@@ -100,7 +102,7 @@ First, we construct the box without the support for the levitator. Then we const
 
 2. Cut/mill on the inner side of each of the pieces a slit (with a depth of 10 mm) - or milling a groove in wood, deutsch: eine Nut fräsen - that is as thick as the wood, like this: 
 <p align="center">
-<img width="288" src="https://github.com/xstageproject/experiments/assets/78161180/8afd46ae-ee62-4ed3-8031-1db08a153fa7">
+<img width="288" src="https://github.com/user-attachments/assets/ac33e4ef-9365-4c1e-a5e5-11d113167fc1">
 </p>
 
 The idea is that the floor panel will be glued into the slit of each side. 
@@ -127,7 +129,7 @@ Instructions:
 **1. Stencil Design and Preparation:**
 * Design and laser cut a stencil in the shape of the ear-shaped support.
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c1cfb301-c584-4d5a-82ad-80be6508defd" alt="Alt text" style="width:33%; height:auto;">
+<img src="https://github.com/user-attachments/assets/1699c86b-7e36-4d87-8bf7-a6c1783e3d7b" alt="Alt text" style="width:33%; height:auto;">
 </p>
 
 **2. Cutting and Sanding:**
@@ -159,9 +161,9 @@ Instructions:
 
 **Visual Reference:**
 <p align="center">
-<img src="https://github.com/xstageproject/experiments/assets/78161180/9320ff15-aa91-429f-9817-a942d11cda24" alt="Alt text" style="width:33%; height:auto; display:inline-block; margin-right: 10px;">
- <img src="https://github.com/xstageproject/experiments/assets/78161180/9b8275b1-69fc-4340-b869-60c12781e4f7" alt="Alt text" style="width:33%; height:auto; display:inline-block;">   
- <img src="https://github.com/xstageproject/experiments/assets/78161180/a590b07a-40b9-4350-afd2-76a7583b71cb" alt="Alt text" style="width:33%; height:auto; display:inline-block;">   
+<img src="https://github.com/user-attachments/assets/69298355-9baf-4aea-903d-6badad0bc199" alt="Alt text" style="width:33%; height:auto; display:inline-block; margin-right: 10px;">
+ <img src="https://github.com/user-attachments/assets/cc461930-4dad-4e5d-9387-710ae3fb3ae5" alt="Alt text" style="width:33%; height:auto; display:inline-block;">   
+ <img src="https://github.com/user-attachments/assets/48186855-68b6-4b20-8b47-78c79db2ce99" alt="Alt text" style="width:33%; height:auto; display:inline-block;">   
 </p>
 
 
@@ -171,8 +173,9 @@ To install the ear-shaped module to the box, follow these steps:
 
 **1. Create a Stencil:** Design and laser cut a stencil that provides the correct distance between the two ear-shaped modules (based on the distance set by the 3D printed part) and indicates the position of the two buttons
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/9f3d6dfd-845d-4267-8611-4b750cf6ec00" alt="Alt text" style="width:40%; height:auto;">  
+    <img src="https://github.com/user-attachments/assets/bda9e354-75a8-4030-95dc-c9b2bb311247" alt="Alt text" style="width:40%; height:auto;">  
 </p>
+
 
 **2. Drill Holes in Modules:** In the bottom part of each ear-shaped module, drill two centered holes.
 
@@ -183,7 +186,7 @@ To install the ear-shaped module to the box, follow these steps:
 **5. Insert Threaded Sockets:** Install threaded sockets (Gewinde-Muffen) into the holes so that the parts can be re-installed as needed.
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/bcd8e3c9-568e-406a-9da7-7c07b9234458" style="width:40%; height:auto;"> 
+   <img src="https://github.com/user-attachments/assets/c09a41f7-ef8a-4f2a-909a-1d4b18edae5d" style="width:40%; height:auto;"> 
 </p>
 
 **6. Install Levitator:** Insert the levitator into the ear-shaped module and thread the cables through the cable duct. Screw the ear-shaped module to the box and glue the electronics to the box.
