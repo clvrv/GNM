@@ -159,11 +159,6 @@ Instructions:
 * Once the glue is fully dried, sand the borders of the assembled module to make sure all edges are even and smooth.
 
 **Visual Reference:**
-<p align="center">
-<img src="https://github.com/user-attachments/assets/78d0aa47-e126-4497-abcd-bd405e5f0223" alt="Alt text" style="width:33%; height:auto; display:inline-block; margin-right: 10px;">
- <img src="https://github.com/user-attachments/assets/cc461930-4dad-4e5d-9387-710ae3fb3ae5" alt="Alt text" style="width:33%; height:auto; display:inline-block;">   
- <img src="https://github.com/user-attachments/assets/f82a9c69-6ae2-4b97-b917-3013ac0da4d6" alt="Alt text" style="width:33%; height:auto; display:inline-block;">   
-</p>
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/78d0aa47-e126-4497-abcd-bd405e5f0223" alt="Image 1" style="width: 33%; height: auto; margin-right: 10px;">
@@ -198,7 +193,7 @@ To install the ear-shaped module to the box, follow these steps:
 
 <p align="center">
      <img src="https://github.com/user-attachments/assets/74a54f85-0f22-43ba-9fb6-b1d17def02e2" alt="Alt text" style="width:40%; height:auto; display:inline-block; margin-right: 10px;"> 
-     <img src="https://github.com/user-attachments/assets/0b661f35-0df7-4ef8-8a31-6178fc9d1aef" alt="Alt text" style="width:40%; height:auto; display:inline-block;">  
+     <img src="https://github.com/user-attachments/assets/327450dd-93ce-4722-88da-00269c7bc216" alt="Alt text" style="width:40%; height:auto; display:inline-block;">  
 </p>
 
 **7. Install Buttons:** Install the buttons and solder them to the Arduino.
