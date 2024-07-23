@@ -11,6 +11,9 @@ Short Description
 
 ### Parts List 
 
+* Neodym Magnets N42
+* 2x yttrium barium copper oxide (YBCO) superconductors
+
 ### How it works
 
 ### Troubleshooting
