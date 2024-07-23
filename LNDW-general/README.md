@@ -58,7 +58,7 @@ Für die supraleitende Magnetschwebebahn:
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
-    <td style="vertical-align: top; border: none; width: calc(100% - 130px); padding-right: 10px;">
+    <td style="vertical-align: top; border: none; width: calc(100% - 150px); padding-right: 10px;">
       <p>Für die Vorbereitung:</p>
       <ul>
         <li>Flüssiger Stickstoff</li>
@@ -68,7 +68,7 @@ Für die supraleitende Magnetschwebebahn:
         <li>Sicherheits-Handschuhe</li>
       </ul>
     </td>
-    <td style="vertical-align: top; border: none; width: 100px;">
+    <td style="vertical-align: top; border: none; width: 50px;">
       <img src="https://github.com/user-attachments/assets/3fb77d75-e3a3-4fd2-98d3-aea41ddd80a7" alt="Sicherheitsequipment" style="width: 100%; height: auto;">
     </td>
   </tr>
