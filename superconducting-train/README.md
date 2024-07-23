@@ -51,20 +51,27 @@ levitator warm up and dry after usage. We recommend that you store the levitator
 
 ### Construction of the maglev train
 
-1. Cut a rectangular wood panel as a base of the maglev train.
+**1. Base Preparation:** 
+* Cut a rectangular wooden panel as the base for the maglev train.
    
 ![IMG_6941](https://github.com/user-attachments/assets/9d4fdb31-040f-468e-ac9d-3dbf54e74766)
 
-2. Cut the magnetic sheet metal into a rectangle; as well as four stripes.
+**2. Metal Sheet Preparation:**
+* Cut the magnetic sheet metal into a rectangle and four strips.
 
 ![IMG_6986](https://github.com/user-attachments/assets/42d6be4d-ad68-433c-a91e-badd9e70779f)
 
-3. Drill four holes into each corner of the metal rectangle, as well as in each side of the stripes. Then countersink a screw with a countersunk head drill.
-4. Screw the four metal strips to the wood using flat-head screws.
-5.  Laser-cut the shape of the magnetic track out of wood. Use this as a template to create the track with the magnets. _The file for the laser cutter is attached._
+**3. Drilling and Screwing:**
+* Drill four holes into each corner of the metal rectangle, as well as in each side of the stripes.
+* Then countersink a screw with a countersunk head drill.
+* Screw the four metal strips to the wood using flat-head screws.
+  
+**4. Laser Cutting:**
+* Laser-cut the shape of the magnetic track out of wood. Use this as a template to create the track with the magnets. _The file for the laser cutter is attached._
 ![IMG_6971](https://github.com/user-attachments/assets/66163316-3f0e-40ac-a8e3-ef92684e0917)
 
-6. Since the sheet is magnetic, neodymium magnets will adhere to it. These magnets are arranged in groups of three, oriented as either North-South-North or South-North-South. They should be aligned consistently along the curve. In the inner circle, all magnets are oriented with their south poles facing inward. In the middle circle, the magnets face north, and in the outer circle, they face south again.
+**5. Magnet Arrangement:** 
+* Since the sheet is magnetic, neodymium magnets will adhere to it. These magnets are arranged in groups of three, oriented as either North-South-North or South-North-South. They should be aligned consistently along the curve. In the inner circle, all magnets are oriented with their south poles facing inward. In the middle circle, the magnets face north, and in the outer circle, they face south again.
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/8fa15370-8f8c-4414-92c3-0c9ab344120e" target="_blank">
@@ -74,16 +81,22 @@ levitator warm up and dry after usage. We recommend that you store the levitator
 
 **_SAFETY WARNING!_** This experiment uses **extremely strong neodymium magnets.** These magnets, if not handled carefully, can cause serious injury, such as pinching fingers. Use gloves!
     
-7. Due to the strength of the magnets, the rectangular sheet will adhere securely to the four stripes screwed to the wooden panel. To align the metal sheet with the panel, use spacers to adjust and align each side of the rectangle sequentially. **_Be careful during this process; the spacers are also used to prevent finger pinching._**
-8. Screw the metal sheet with the neodymium magnets to the wood panel.
+**6. Sheet Alignment:**
+
+Due to the strength of the magnets, the rectangular sheet will adhere securely to the four strips screwed to the wooden panel. Use spacers to align each side of the rectangle sequentially.  **_Be careful during this process; the spacers are also used to prevent finger pinching._**
+
+**7. Final Assembly:**
+
+* Screw the metal sheet with the neodymium magnets to the wood panel. Screw the metal sheet with the neodymium magnets to the wood panel.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/db20dfd7-6457-476a-bb18-1f6f47001736" alt="Maglev Train Details" style="width:60%; height:auto;">
 </p>
 
-_The idea behind this type of assemblage, is the possibility to change every single element. You could even change the form of the track if wanted!_
+_The idea behind this type of assembly is the ability to change each individual element. You can even alter the shape of the track if desired!_
  
-9. Place a Styrofoam plate and a light wooden plate on the magnetic track to secure it for transport and storage.
+**8. Transport and Storage:**
+Place a Styrofoam plate and a light wooden plate on the magnetic track to secure it for transport and storage.
 
 ### Setup
 
