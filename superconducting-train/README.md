@@ -11,7 +11,7 @@ Short Description
 
 ### Parts List 
 
-* Neodym Magnets N42
+* Neodym Magnets N42 (40 x 10 x 5 mm; 20 x 10 x 5 mm; 10 x 10 x 5 mm)
 * 2x yttrium barium copper oxide (YBCO) superconductors
 
 ### How it works
