@@ -1,4 +1,4 @@
-# Installation Name
+# General Setup for The Long Night of the Science 
 
 Owners: Clara Rodríguez
 
@@ -56,21 +56,24 @@ Für die supraleitende Magnetschwebebahn:
 * 2x Supraleiter
 
 
-<div style="overflow: hidden;">
-  <div style="float: left; width: calc(100% - 120px); padding-right: 10px;">
-    <p>Für die Vorbereitung:</p>
-    <ul>
-      <li>Flüssiger Stickstoff</li>
-      <li>Kannen für den Transport und Lagerung von Flüssiger Stickstoff</li>
-      <li>1x große Kelle</li>
-      <li>2x kleine Kellen um den Supraleiter zu kühlen</li>
-      <li>Sicherheits-Handschuhe</li>
-    </ul>
-  </div>
-  <div style="float: right; width: 100px;">
-    <img src="https://github.com/user-attachments/assets/3fb77d75-e3a3-4fd2-98d3-aea41ddd80a7" alt="Sicherheitsequipment" style="width: 100%; height: auto;">
-  </div>
-</div>
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr style="border: none;">
+    <td style="vertical-align: top; border: none; width: calc(100% - 100px); padding-right: 10px;">
+      <p>Für die Vorbereitung:</p>
+      <ul>
+        <li>Flüssiger Stickstoff</li>
+        <li>Kannen für den Transport und Lagerung von Flüssiger Stickstoff</li>
+        <li>1x große Kelle</li>
+        <li>2x kleine Kellen um den Supraleiter zu kühlen</li>
+        <li>Sicherheits-Handschuhe</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top; border: none; width: 70px;">
+      <img src="https://github.com/user-attachments/assets/3fb77d75-e3a3-4fd2-98d3-aea41ddd80a7" alt="Sicherheitsequipment" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
+
 
 
 
