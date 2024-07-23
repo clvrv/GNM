@@ -87,7 +87,7 @@ Die Poster werden auch mit Magnete befestig in den beiden Säulen direkt gegenü
 
 Es werden 3 Lichter, mit blauem Licht, entlang des Raums gelegt. Siehe Fotos: 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/84415d86-bdfa-4f44-b732-63ba80b67514" alt="Licht 1" style="width: 33%; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/0abccb61-146e-40a6-a963-ae82997accfc" alt="Licht 1" style="width: 33%; height: auto; margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/3b048757-f6f9-4443-aeb5-cb301e792178" alt="Licht 2" style="width: 33%; height: 60%; margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/f4ad95e0-93b9-45c8-981d-f18173b446e9" alt="Licht 3" style="width: 33%; height: auto;">
 </div>
