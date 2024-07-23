@@ -1,13 +1,16 @@
-# Superconducting Train
-
-Owners: Clara Rodríguez 
+# Superconducting Magnetic Levitation Train
 
 Short Description
 
 ![DSC05182](https://github.com/user-attachments/assets/db20dfd7-6457-476a-bb18-1f6f47001736)
 
 
+https://github.com/user-attachments/assets/cb2e6438-7c8f-444a-8960-b0e0a2658bd5
+
+
+
 ## Setup
+![IMG_7012](https://github.com/user-attachments/assets/7e03c670-86ae-49b8-a2dc-470c5c46aecb)
 
 ### Parts List 
 
