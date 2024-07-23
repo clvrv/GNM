@@ -80,6 +80,8 @@ levitator warm up and dry after usage. We recommend that you store the levitator
 <p align="center">
 <img src="https://github.com/user-attachments/assets/db20dfd7-6457-476a-bb18-1f6f47001736" alt="Maglev Train Details" style="width:60%; height:auto;">
 </p>
+
+_The idea behind this type of assemblage, is the possibility to change every single element. You could even change the form of the track if wanted!_
  
 9. Place a Styrofoam plate and a light wooden plate on the magnetic track to secure it for transport and storage.
 
