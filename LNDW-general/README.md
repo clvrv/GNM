@@ -21,28 +21,28 @@ The group is currently researching superconductivity in ferecrystals. Supercondu
 
 ### Parts List 
 
-**General items**
+**1. General items**
 * 3x RGB Fluter
 * Diverse Verlängerungskabel und Mehrfachsteckdosen
 * Cyanotypen Prints von den Proben der AG
-* Magnete
 * 2x Poster (1x Supraleitung, 1x Supraleitung in Ferekristalle)
+* Magnete
 * 1x Feuerlöscher
 * Luftballons, Helium, Schnur und Schere, um die Schnur zu schneiden
-* 1x Tape
+* 1x Tape (um evtl Sachen zu befestigen, wie den Samt auf dem großen Tisch)
 * 1x Leiter
 
-**Acoustic Levitator**
+**2. Acoustic Levitator**
 * 2x Halbkreis-Tische
 * 1x Verlängerungskabel
 * 1x dunkelblaue Samt-Stoff
-* 1x Levitator
+* 1x Akustischer Levitator
 * 1x USBc Cable
 * 1x Netzteil
 * 1x Pinzetten
 * Stück Styropor
 
-**Superconducting Train and its Live Camera Projection**
+**3. Superconducting Train and its Live Camera Projection**
 
 Für die supraleitende Magnetschwebebahn:
 * 2x tables
@@ -55,30 +55,12 @@ Für die supraleitende Magnetschwebebahn:
 * 1x Blumen zum Einfrieren und zerschlagen
 * 2x Supraleiter
 
-
-<table style="border-collapse: collapse; width: 100%; border: none;">
-  <tr style="border: none;">
-    <td style="vertical-align: top; border: none; width: 50%; padding-right: 10%;">
-      <p>Für die Vorbereitung:</p>
-      <ul>
-        <li>Flüssiger Stickstoff</li>
-        <li>Kannen für den Transport und Lagerung von Flüssiger Stickstoff</li>
-        <li>1x große Kelle</li>
-        <li>2x kleine Kellen um den Supraleiter zu kühlen</li>
-        <li>Sicherheits-Handschuhe</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top; border: none; width: 40%;">
-      <img src="https://github.com/user-attachments/assets/3fb77d75-e3a3-4fd2-98d3-aea41ddd80a7" alt="Sicherheitsequipment" style="width: 100%; height: auto;">
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
+Für die Vorbereitung:
+* Flüssiger Stickstoff
+* Kannen für den Transport und Lagerung von Flüssiger Stickstoff
+* 1x große Kelle
+* 2x kleine Kellen um den Supraleiter zu kühlen
+* Sicherheits-Handschuhe
 
 Für die Live Camera Projection:
 * 1x Kamera **(_mit geladenen Akkus!_)**
@@ -88,35 +70,51 @@ Für die Live Camera Projection:
 * 1x Verlängerungskabel
 * 1x Mehrfachsteckdose
 
+  
+### General Setup 
+
+Die Cyanotopien werden im Whiteboard neben dem Eingang mit Magneten befestigt und unten wird geschrieben, was zu sehen ist.
+
 <p align="center">
-<img src="https://github.com/user-attachments/assets/84415d86-bdfa-4f44-b732-63ba80b67514" alt="Live Camera Setup" style="width:30%; height:auto; ">
+<img src="https://github.com/user-attachments/assets/9bc7b85d-9709-4f33-83da-457c544d7bd2" alt="Cyanotypes" style="width:60%; height:auto;">
 </p>
 
-  
-**General Setup**
+Die Poster werden auch mit Magnete befestig in den beiden Säulen direkt gegenüber der ersten Tür. Zwischen den beiden Säulen, werden die Stühle gestappelt, die vorher im Raum waren und nicht genutzt werden.
 
-![Cyanotypes](https://github.com/user-attachments/assets/9bc7b85d-9709-4f33-83da-457c544d7bd2)
-![Live Camera Setup](https://github.com/user-attachments/assets/84415d86-bdfa-4f44-b732-63ba80b67514)
-![Poster](https://github.com/user-attachments/assets/c40aaa6f-da2d-4f35-9041-27f9693ea224)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c40aaa6f-da2d-4f35-9041-27f9693ea224" alt="Poster" style="width:60%; height:auto;">
+</p>
 
-**Superconducting Train**
+Es werden 3 Lichter, mit blauem Licht, entlang des Raums gelegt. Siehe Fotos: 
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/84415d86-bdfa-4f44-b732-63ba80b67514" alt="Licht 1" style="width: 33%; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/3b048757-f6f9-4443-aeb5-cb301e792178" alt="Licht 2" style="width: 33%; height: 60%; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/f4ad95e0-93b9-45c8-981d-f18173b446e9" alt="Licht 3" style="width: 33%; height: auto;">
+</div>
+
+### Setup Superconducting Train**
+
+Zwei Tische werden auf der Höhe von der dritten Säule, zentriert im Raum und mit dem hellen Samt bedeckt. Eventuell muss den Samt mit Tape am Tisch befestigt, damit es nicht ausrutscht. **_Achtung, hierbei die Türen des Emergency-Exit zum Innenhof nicht zustellen! Auch nicht die beiden Türen zustellen, die zum Flur gehen. Das sind alle Fluchtwege!_** Auf den Tische werden die große Magnetschwebebahn gelegt und davor (Richtung Publikum) die Plexiglas-Scheibe. Hinter der großen Bahn wird die kleine supraleitende Magnetstrecke mit ihre Kiste mit Polster drinnen gelegt. Wenn die kleine Strecke genutzt wird sollen 
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c1f5df3b-9f57-4a0c-8c26-310687daad25" alt="Poster" style="width:60%; height:auto;">
+</p>
+
+
 ![Sicherheitsequipment](https://github.com/user-attachments/assets/3fb77d75-e3a3-4fd2-98d3-aea41ddd80a7)
+![Live Camera Setup](https://github.com/user-attachments/assets/84415d86-bdfa-4f44-b732-63ba80b67514)
 ![DSC05185](https://github.com/user-attachments/assets/ff3c3d4f-474d-4cf3-b364-70b5d7ae9271)
-![DSC05173](https://github.com/user-attachments/assets/c1f5df3b-9f57-4a0c-8c26-310687daad25)
+
 ![DSC05184](https://github.com/user-attachments/assets/f4ad95e0-93b9-45c8-981d-f18173b446e9)
 ![DSC05187](https://github.com/user-attachments/assets/5c13eeba-eb5d-4908-ace6-8ffd9c4c3235)
 
-**Acoustic Levitator**
+### Setup Acoustic Levitator
 ![DSC05172](https://github.com/user-attachments/assets/d38aace1-0a78-4495-bab3-e04db88aaa77)
 ![DSC05169](https://github.com/user-attachments/assets/695ee10a-4cd5-4cdf-acc4-6faa299be2d3)
 ![DSC05168](https://github.com/user-attachments/assets/83c0b7cb-98bb-4f9b-ae32-5f630c036031)
 ![1 Licht](https://github.com/user-attachments/assets/3b048757-f6f9-4443-aeb5-cb301e792178)
 
-### How it works
+### Possible Problems
 
-### Troubleshooting
-
-## Scientific Background
-
-## Change Log / Variants
+...
 
