@@ -101,23 +101,32 @@ Two tables are placed at the height of the third column, centered in the room, a
 
 On the tables, the large magnetic levitation track is placed with the plexiglass sheet in front of it, facing the audience. In front of the table, a red and white chain is set up to keep the audience at a safe distance from the liquid nitrogen, camera, and cables. Behind the large track, the small superconducting magnetic track is placed along with its padded box. Superconductors are very brittle and expensive, and if they fall on the table or floor, they could break. Therefore, when using the small track, it should always be done over the padded box.
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/c1f5df3b-9f57-4a0c-8c26-310687daad25" alt="Poster" style="width:60%; height:auto;">
-</p>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/ff3c3d4f-474d-4cf3-b364-70b5d7ae9271" alt="Setup Train" style="width: 49%; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/84415d86-bdfa-4f44-b732-63ba80b67514" alt="Live Camera Setup" style="width: 49%; height: auto;">
+</div>
 
 
-![Sicherheitsequipment](https://github.com/user-attachments/assets/3fb77d75-e3a3-4fd2-98d3-aea41ddd80a7)
-![Live Camera Setup](https://github.com/user-attachments/assets/84415d86-bdfa-4f44-b732-63ba80b67514)
-![DSC05185](https://github.com/user-attachments/assets/ff3c3d4f-474d-4cf3-b364-70b5d7ae9271)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/c1f5df3b-9f57-4a0c-8c26-310687daad25" alt="Setup Train" style="width: 33%; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/3fb77d75-e3a3-4fd2-98d3-aea41ddd80a7" alt="Sicherheitsequipment" style="width: 33%; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/f4ad95e0-93b9-45c8-981d-f18173b446e9" alt="Light" style="width: 33%; height: auto;">
+</div>
 
-![DSC05184](https://github.com/user-attachments/assets/f4ad95e0-93b9-45c8-981d-f18173b446e9)
-![DSC05187](https://github.com/user-attachments/assets/5c13eeba-eb5d-4908-ace6-8ffd9c4c3235)
+
 
 ### Setup Acoustic Levitator
+
+
+
 ![DSC05172](https://github.com/user-attachments/assets/d38aace1-0a78-4495-bab3-e04db88aaa77)
-![DSC05169](https://github.com/user-attachments/assets/695ee10a-4cd5-4cdf-acc4-6faa299be2d3)
-![DSC05168](https://github.com/user-attachments/assets/83c0b7cb-98bb-4f9b-ae32-5f630c036031)
-![1 Licht](https://github.com/user-attachments/assets/3b048757-f6f9-4443-aeb5-cb301e792178)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/83c0b7cb-98bb-4f9b-ae32-5f630c036031" alt="Setup Levitator" style="width: 33%; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/695ee10a-4cd5-4cdf-acc4-6faa299be2d3" alt="Setup Levitator" style="width: 33%; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/3b048757-f6f9-4443-aeb5-cb301e792178" alt="Light" style="width: 33%; height: auto;">
+</div>
+
+
 
 ### Possible Problems
 
