@@ -2,7 +2,9 @@
 
 Owners: Clara Rodríguez
 
-Since 2023, the AG New Materials presents parts of its work during The Long Night of Science (Lange Nacht der Wissenschaften).
+![DSC02881 Kopie](https://github.com/user-attachments/assets/a1603fab-1d57-4bf0-9a55-baccbcf69b4a)
+
+Since 2023, the AG Novel Materials presents parts of its work during The Long Night of Science (Lange Nacht der Wissenschaften).
  
 The exhibition focus on communicating a phenomenon that has many applications today: superconductivity.
  
