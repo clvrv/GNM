@@ -16,8 +16,12 @@ The group is currently researching superconductivity in ferecrystals. Supercondu
 
 * [[Website der LNDW](https://www.langenachtderwissenschaften.de)]
 
-
 ## Setup
+
+In the following the setup for the LNDW will be described:
+
+![IMG_7008](https://github.com/user-attachments/assets/284acbb4-7619-43ea-9034-edd1cce110c7)
+
 
 ### Parts List 
 
