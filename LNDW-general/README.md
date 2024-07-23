@@ -58,7 +58,7 @@ Für die supraleitende Magnetschwebebahn:
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
-    <td style="vertical-align: top; border: none; width: 70%; padding-right: 10px;">
+    <td style="vertical-align: top; border: none; width: 50%; padding-right: 10px;">
       <p>Für die Vorbereitung:</p>
       <ul>
         <li>Flüssiger Stickstoff</li>
