@@ -55,16 +55,24 @@ Für die supraleitende Magnetschwebebahn:
 * 1x Blumen zum Einfrieren und zerschlagen
 * 2x Supraleiter
 
-Für die Vorbereitung:
-* Flüssiger Stickstoff
-* Kannen für den Transport und Lagerung von Flüssiger Stickstoff
-* 1x große Kelle
-* 2x kleinen Kelle um den Supraleiter zu kühlen
-* Sicherheits-Handschuhe
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/3fb77d75-e3a3-4fd2-98d3-aea41ddd80a7" alt="Sicherheitsequipment" style="width:30%; height:auto; ">
-</p>
+<div style="position: relative; width: 100%;">
+  <div style="width: calc(100% - 110px); display: inline-block; vertical-align: top;">
+    <p>Für die Vorbereitung:</p>
+    <ul>
+      <li>Flüssiger Stickstoff</li>
+      <li>Kannen für den Transport und Lagerung von Flüssiger Stickstoff</li>
+      <li>1x große Kelle</li>
+      <li>2x kleine Kellen um den Supraleiter zu kühlen</li>
+      <li>Sicherheits-Handschuhe</li>
+    </ul>
+  </div>
+  <div style="width: 100px; display: inline-block; position: absolute; top: 0; right: 0;">
+    <img src="https://github.com/user-attachments/assets/3fb77d75-e3a3-4fd2-98d3-aea41ddd80a7" alt="Sicherheitsequipment" style="width: 100px; height: auto;">
+  </div>
+</div>
+
+
 
 
 Für die Live Camera Projection:
