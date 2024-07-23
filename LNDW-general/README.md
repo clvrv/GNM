@@ -97,9 +97,8 @@ Three lights, set to produce blue light, are placed along the room. See photos:
 </div>
 
 ### Setup Superconducting Train
-Two tables are placed at the height of the third column, centered in the room, and covered with light velvet. The velvet may need to be secured to the table with tape to prevent slipping. **_Caution: Do not block the emergency exit doors to the courtyard or the two doors leading to the hallway. These are escape routes!_**
+Two tables are placed at the height of the third column, centered in the room, and covered with light blue velvet. The velvet may need to be secured to the table with tape to prevent slipping. **_Caution: Do not block the emergency exit doors to the courtyard or the two doors leading to the hallway. These are escape routes!_**
 
-On the tables, the large magnetic levitation track is placed with the plexiglass sheet in front of it, facing the audience. In front of the table, a red and white chain is set up to keep the audience at a safe distance from the liquid nitrogen, camera, and cables. Behind the large track, the small superconducting magnetic track is placed along with its padded box. Superconductors are very brittle and expensive, and if they fall on the table or floor, they could break. Therefore, when using the small track, it should always be done over the padded box.
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/ff3c3d4f-474d-4cf3-b364-70b5d7ae9271" alt="Setup Train" style="width: 49%; height: auto; margin-right: 10px;">
@@ -107,28 +106,44 @@ On the tables, the large magnetic levitation track is placed with the plexiglass
 </div>
 
 
+On the tables, the large magnetic levitation track is placed with the plexiglass sheet in front of it, facing the audience. In front of the table, a red and white chain is set up to keep the audience at a safe distance from the liquid nitrogen, camera, and cables. On the chain you can tie the balloons filled with helium. 
+
+Right next to the window, behind the third column, is a table for the scientists to prepare the experiment. There you will find the necessary safety items, as well as the liquid nitrogen and other materials such as the superconductor or the ladlers. 
+
+In front of
+
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/c1f5df3b-9f57-4a0c-8c26-310687daad25" alt="Setup Train" style="width: 33%; height: auto; margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/3fb77d75-e3a3-4fd2-98d3-aea41ddd80a7" alt="Sicherheitsequipment" style="width: 33%; height: auto; margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/f4ad95e0-93b9-45c8-981d-f18173b446e9" alt="Light" style="width: 33%; height: auto;">
 </div>
 
+Behind the large track, the small superconducting magnetic track is placed along with its padded box. Superconductors are very brittle and expensive, and if they fall on the table or floor, they could break. Therefore, when using the small track, it should always be done over the padded box.
 
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/72c442aa-f72e-4ca8-bc79-f5cf6e2c458d" alt="Small Setup Train" style="width: 49%; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/98bb3b0d-ac60-4dde-8b5e-5ca7e69eaa88" alt="Small Setup Train" style="width: 49%; height: auto;">
+</div>
+
+_**Due to the use of liquid nitrogen, windows and doors must remain open at all times during the LNDW!**_
 
 ### Setup Acoustic Levitator
 
+For the Acoustic Levitator, two semicircular tables are brought into the room, placed in front of the yellow chairs, and covered with the dark blue velvet. The Acoustic Levitator is placed on the table and connected via a USBc cable to a power supply connected to an extension cord. Inside the Levitator is a pair of tweezers and a small piece of Styrofoam.
 
-
-![DSC05172](https://github.com/user-attachments/assets/d38aace1-0a78-4495-bab3-e04db88aaa77)
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/83c0b7cb-98bb-4f9b-ae32-5f630c036031" alt="Setup Levitator" style="width: 33%; height: auto; margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/695ee10a-4cd5-4cdf-acc4-6faa299be2d3" alt="Setup Levitator" style="width: 33%; height: auto; margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/3b048757-f6f9-4443-aeb5-cb301e792178" alt="Light" style="width: 33%; height: auto;">
 </div>
 
+![DSC05172](https://github.com/user-attachments/assets/d38aace1-0a78-4495-bab3-e04db88aaa77)
+
+### Setup Video Human Behind the Machines
 
 
-### Possible Problems
+## Changes and Troubleshooting 
+
 
 ...
 
