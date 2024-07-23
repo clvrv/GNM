@@ -14,6 +14,11 @@ A superconductor is frozen with liquid nitrogen in the magnetic field of systema
 
 ### Parts List 
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/db20dfd7-6457-476a-bb18-1f6f47001736" alt="Maglev Train Details" style="width:60%; height:auto;">
+</p>
+ 
+
 **1. Superconducting Track:**
 * Neodymium Magnets N42 (40 x 10 x 5 mm; 20 x 10 x 5 mm; 10 x 10 x 5 mm)
 * 2x superconductors, [[purchased here.](https://www.educentral.de/p/supraleiter-ybacuo-scheibe-25-mm-x-9-mm)]
@@ -26,15 +31,12 @@ A superconductor is frozen with liquid nitrogen in the magnetic field of systema
 * 1x Magnetic sheet metal
 
 **_SAFETY WARNING!_** This experiment uses **extremely strong neodymium magnets.** These magnets, if not handled
-carefully, can cause serious injury. Keep the magnets away from magnetic materials and far from sensitive electronics.
+carefully, can cause serious injury. The magnets Keep the magnets away from magnetic materials and far from sensitive electronics.
 
 **_HANDLING INSTRUCTIONS_** The **superconductor** is sensitive to moisture. If not handled properly it will lose its superconducting properties. You should always let the
 levitator warm up and dry after usage. We recommend that you store the levitator in dry atmosphere, preferably inside a sealed container with silica gel.
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/db20dfd7-6457-476a-bb18-1f6f47001736" alt="Maglev Train Details" style="width:60%; height:auto;">
-</p>
- 
+
 
 **2. Live Camera Projection:**
 * 1x Camera
