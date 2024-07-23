@@ -74,6 +74,15 @@ For the live camera projection:
 * 1x extension cord
 * 1x power strip
 
+**4. Video _Human Behind the Machines_**
+
+* Small desk
+* Chair
+* Computer
+* Monitor
+* HDMI cable
+* Headphones
+* Link to youtube video: https://studio.youtube.com/video/VPpruTylhxI/edit 
   
 ### General Setup 
 
@@ -98,6 +107,10 @@ Three lights, set to produce blue light, are placed along the room. See photos:
 </div>
 
 ### Setup Superconducting Train
+
+_**Due to the use of liquid nitrogen, windows and doors must remain open at all times during the LNDW!**_
+
+
 Two tables are placed at the height of the third column, centered in the room, and covered with light blue velvet. The velvet may need to be secured to the table with tape to prevent slipping. **_Caution: Do not block the emergency exit doors to the courtyard or the two doors leading to the hallway. These are escape routes!_**
 
 
@@ -113,24 +126,27 @@ Right next to the window, behind the third column, is a table for the scientists
 
 On the other side of the third column is a mount that holds the projector and a lamp. They are connected to an extension cord. In front of the mount is a tripod with the camera on it. The projector and the camera are connected with a mini HDMI to HDMI cable. The camera is turned on and films the whole large superconducting magnetic train track. 
 
+
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/c1f5df3b-9f57-4a0c-8c26-310687daad25" alt="Setup Train" style="width: 33%; height: auto; margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/3fb77d75-e3a3-4fd2-98d3-aea41ddd80a7" alt="Sicherheitsequipment" style="width: 33%; height: auto; margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/f4ad95e0-93b9-45c8-981d-f18173b446e9" alt="Light" style="width: 33%; height: auto;">
 </div>
 
+
 Behind the large track, the small superconducting magnetic track is placed along with its padded box. Superconductors are very brittle and expensive, and if they fall on the table or floor, they could break. Therefore, when using the small track, it should always be done over the padded box.
+
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/72c442aa-f72e-4ca8-bc79-f5cf6e2c458d" alt="Small Setup Train" style="width: 49%; height: auto; margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/98bb3b0d-ac60-4dde-8b5e-5ca7e69eaa88" alt="Small Setup Train" style="width: 49%; height: auto;">
 </div>
 
-_**Due to the use of liquid nitrogen, windows and doors must remain open at all times during the LNDW!**_
 
 ### Setup Acoustic Levitator
 
 For the Acoustic Levitator, two semicircular tables are brought into the room, placed in front of the yellow chairs, and covered with the dark blue velvet. The Acoustic Levitator is placed on the table and connected via a USBc cable to a power supply connected to an extension cord. Inside the Levitator is a pair of tweezers and a small piece of Styrofoam.
+
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/83c0b7cb-98bb-4f9b-ae32-5f630c036031" alt="Setup Levitator" style="width: 33%; height: auto; margin-right: 10px;">
@@ -142,9 +158,11 @@ For the Acoustic Levitator, two semicircular tables are brought into the room, p
 
 ### Setup Video Human Behind the Machines
 
+_To be added by a member of the group Novel Materials!_
 
 ## Changes and Troubleshooting 
 
+_Write here if there are any changes or if there are any problems, how they were solved!_
 
 ...
 
