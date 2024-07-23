@@ -123,6 +123,8 @@ Two tables are placed at the height of the third column, centered in the room, a
   <img src="https://github.com/user-attachments/assets/84415d86-bdfa-4f44-b732-63ba80b67514" alt="Live Camera Setup" style="width: 49%; height: auto;">
 </div>
 
+![IMG_7005](https://github.com/user-attachments/assets/c0d7d340-05ad-4b7c-afe0-1b264837f466)
+
 
 On the tables, the large magnetic levitation track is placed with the plexiglass sheet in front of it, facing the audience. In front of the table, a red and white chain is set up to keep the audience at a safe distance from the liquid nitrogen, camera, and cables. On the chain you can tie the balloons filled with helium. 
 
