@@ -79,6 +79,7 @@ Für die supraleitende Magnetschwebebahn:
 
 
 
+
 Für die Live Camera Projection:
 * 1x Kamera **(_mit geladenen Akkus!_)**
 * 1x Mini-HDMI
