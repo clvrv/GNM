@@ -48,11 +48,11 @@ For the superconducting magnetic levitation track:
 
 * 2x tables
 * 1x light blue velvet cloth
-* 1x large superconducting track
+* 1x large superconducting magnetic track
 * 1x plexiglass safety screen
 * 1x red and white chain to ensure a safe distance
 * Decorative objects
-* 1x small superconducting track
+* 1x small superconducting magnetic track
 * 1x flowers for freezing and smashing
 * 2x superconductors
 
@@ -67,6 +67,7 @@ For the preparation:
 For the live camera projection:
 
 * 1x camera **(_with charged batteries!_)**
+* 1x tripod
 * 1x mini-HDMI to HDMI cable
 * 1x projector
 * 1x mount for the projector
@@ -110,7 +111,7 @@ On the tables, the large magnetic levitation track is placed with the plexiglass
 
 Right next to the window, behind the third column, is a table for the scientists to prepare the experiment. There you will find the necessary safety items, as well as the liquid nitrogen and other materials such as the superconductor or the ladlers. 
 
-In front of
+On the other side of the third column is a mount that holds the projector and a lamp. They are connected to an extension cord. In front of the mount is a tripod with the camera on it. The projector and the camera are connected with a mini HDMI to HDMI cable. The camera is turned on and films the whole large superconducting magnetic train track. 
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/c1f5df3b-9f57-4a0c-8c26-310687daad25" alt="Setup Train" style="width: 33%; height: auto; margin-right: 10px;">
