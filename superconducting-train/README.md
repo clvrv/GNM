@@ -24,6 +24,10 @@ A superconductor is frozen with liquid nitrogen in the magnetic field of systema
 * Liquid Nitrogen
 * 1x Screen-printed panel
 * 1x Magnetic sheet metal
+* Dewar flask - A container for transporting and storing liquid nitrogen
+* 1x large ladle
+* 2x small ladles for cooling the superconductor
+* Safety gloves
 
 **_SAFETY WARNING!_** This experiment uses **extremely strong neodymium magnets.** These magnets, if not handled carefully, can cause serious injury. Keep the magnets away from magnetic materials and far from sensitive electronics.
 
@@ -81,11 +85,17 @@ levitator warm up and dry after usage. We recommend that you store the levitator
 
 ### Setup
 
-1. Put the semiconductor on a small ladler on the track.
-2. Fill the 
-3. To maintain the superconducting state, YBCO is cooled using liquid nitrogen, which keeps the temperature extremely low, often below 77 K (-196°C).
+1. Place the semiconductor in a small ladle on the track.
+2. Fill the ladle with liquid nitrogen. To induce the superconducting state, cool the YBCO using liquid nitrogen, which maintains a temperature below 77 K (-196°C).
+![DSC05186](https://github.com/user-attachments/assets/846cf68a-8a0f-45dd-ba5d-00eee188d56a)
 
+3. When the liquid nitrogen stops boiling, transfer the remaining liquid into a Dewar flask.
+4. Using safety gloves, place the superconductor on the track — it should now levitate.
+5. In order to increase the levitating time, you can wrap the YBCO-bulks in absorbent paper and then attached them with ROXOLID Alu Tape (adhesive tape).
+   
 ### Troubleshooting
+
+_Write here if there are any changes or if there are any problems, how they were solved!_
 
 ## Scientific Background
 
