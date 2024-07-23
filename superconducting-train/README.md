@@ -11,10 +11,22 @@ Short Description
 
 ### Parts List 
 
+Superconducting Track: 
 * Neodym Magnets N42 (40 x 10 x 5 mm; 20 x 10 x 5 mm; 10 x 10 x 5 mm)
 * 2x yttrium barium copper oxide (YBCO) superconductors
+* Liquid Nitrogen
+* 1x Screen-printed panel
+* 1x Magnetic sheet metal
+
+Live Camera Projection:
+* Camera
+* Mini-HDMI to HDMI cable
+* 1x Tripod
+* 1x Projector
 
 ### How it works
+
+To maintain the superconducting state, YBCO is cooled using liquid nitrogen, which keeps the temperature extremely low, often below 77 K (-196°C).
 
 ### Troubleshooting
 
