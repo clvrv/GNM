@@ -14,11 +14,6 @@ A superconductor is frozen with liquid nitrogen in the magnetic field of systema
 
 ### Parts List 
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/db20dfd7-6457-476a-bb18-1f6f47001736" alt="Maglev Train Details" style="width:60%; height:auto;">
-</p>
- 
-
 **1. Superconducting Track:**
 * Neodymium Magnets N42 (40 x 10 x 5 mm; 20 x 10 x 5 mm; 10 x 10 x 5 mm)
 * 2x superconductors, [[purchased here.](https://www.educentral.de/p/supraleiter-ybacuo-scheibe-25-mm-x-9-mm)]
@@ -50,7 +45,7 @@ levitator warm up and dry after usage. We recommend that you store the levitator
 </p>
 
 
-### Setup
+### Construction of the maglev train
 
 1. Cut a rectangular wood panel as a base of the maglev train.
    
@@ -78,10 +73,17 @@ levitator warm up and dry after usage. We recommend that you store the levitator
 7. Due to the strength of the magnets, the rectangular sheet will adhere securely to the four stripes screwed to the wooden panel. To align the metal sheet with the panel, use spacers to adjust and align each side of the rectangle sequentially. **_Be careful during this process; the spacers are also used to prevent finger pinching._**
 8. Screw the metal sheet with the neodymium magnets to the wood panel.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/db20dfd7-6457-476a-bb18-1f6f47001736" alt="Maglev Train Details" style="width:60%; height:auto;">
+</p>
+ 
+9. Place a Styrofoam plate and a light wooden plate on the magnetic track to secure it for transport and storage.
 
-Place a Styrofoam plate and a light wooden plate on the magnetic track to secure it for transport and storage.
+### Setup
 
-To maintain the superconducting state, YBCO is cooled using liquid nitrogen, which keeps the temperature extremely low, often below 77 K (-196°C).
+1. Put the semiconductor on a small ladler on the track.
+2. Fill the 
+3. To maintain the superconducting state, YBCO is cooled using liquid nitrogen, which keeps the temperature extremely low, often below 77 K (-196°C).
 
 ### Troubleshooting
 
