@@ -92,9 +92,11 @@ Es werden 3 Lichter, mit blauem Licht, entlang des Raums gelegt. Siehe Fotos:
   <img src="https://github.com/user-attachments/assets/f4ad95e0-93b9-45c8-981d-f18173b446e9" alt="Licht 3" style="width: 33%; height: auto;">
 </div>
 
-### Setup Superconducting Train**
+### Setup Superconducting Train
 
-Zwei Tische werden auf der Höhe von der dritten Säule, zentriert im Raum und mit dem hellen Samt bedeckt. Eventuell muss den Samt mit Tape am Tisch befestigt, damit es nicht ausrutscht. **_Achtung, hierbei die Türen des Emergency-Exit zum Innenhof nicht zustellen! Auch nicht die beiden Türen zustellen, die zum Flur gehen. Das sind alle Fluchtwege!_** Auf den Tische werden die große Magnetschwebebahn gelegt und davor (Richtung Publikum) die Plexiglas-Scheibe. Hinter der großen Bahn wird die kleine supraleitende Magnetstrecke mit ihre Kiste mit Polster drinnen gelegt. Wenn die kleine Strecke genutzt wird sollen 
+Zwei Tische werden auf der Höhe von der dritten Säule, zentriert im Raum und mit dem hellen Samt bedeckt. Eventuell muss den Samt mit Tape am Tisch befestigt, damit es nicht ausrutscht. **_Achtung, hierbei die Türen des Emergency-Exit zum Innenhof nicht zustellen! Auch nicht die beiden Türen zustellen, die zum Flur gehen. Das sind alle Fluchtwege!_** 
+
+Auf den Tische werden die große Magnetschwebebahn gelegt und davor (Richtung Publikum) die Plexiglas-Scheibe. Hinter der großen Bahn wird die kleine supraleitende Magnetstrecke mit ihre Kiste mit Polster drinnen gelegt. Wenn die kleine Strecke genutzt wird, soll das auf die Kiste über die Kiste mit dem Poster gemacht werden. Supraleiter sind sehr sprode und teuer, und wenn sie auf dem Tisch oder Boden fallen, könnten sie kaputt gehen. Daher immer über die gepolsteter Kiste nutzen.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/c1f5df3b-9f57-4a0c-8c26-310687daad25" alt="Poster" style="width:60%; height:auto;">
