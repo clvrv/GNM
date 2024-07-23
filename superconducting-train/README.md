@@ -26,17 +26,18 @@ A superconductor is frozen with liquid nitrogen in the magnetic field of systema
   * Transition temperature: -180 °C
   * Diameter: 25 mm
   * Height: 9 mm
- * Liquid Nitrogen
+* Liquid Nitrogen
 * 1x Screen-printed panel
 * 1x Magnetic sheet metal
 
-**_SAFETY WARNING!_** This experiment uses **extremely strong neodymium magnets.** These magnets, if not handled
-carefully, can cause serious injury. The magnets Keep the magnets away from magnetic materials and far from sensitive electronics.
+**_SAFETY WARNING!_** This experiment uses **extremely strong neodymium magnets.** These magnets, if not handled carefully, can cause serious injury. Keep the magnets away from magnetic materials and far from sensitive electronics.
 
 **_HANDLING INSTRUCTIONS_** The **superconductor** is sensitive to moisture. If not handled properly it will lose its superconducting properties. You should always let the
 levitator warm up and dry after usage. We recommend that you store the levitator in dry atmosphere, preferably inside a sealed container with silica gel.
 
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/cf7eda32-e5f7-4169-a7f3-a18424dcacaf" alt="Superconductor" style="width:40%; height:auto;">
+</p>
 
 **2. Live Camera Projection:**
 * 1x Camera
@@ -50,6 +51,35 @@ levitator warm up and dry after usage. We recommend that you store the levitator
 
 
 ### Setup
+
+1. Cut a rectangular wood panel as a base of the maglev train.
+   
+![IMG_6941](https://github.com/user-attachments/assets/9d4fdb31-040f-468e-ac9d-3dbf54e74766)
+
+2. Cut the magnetic sheet metal into a rectangle; as well as four stripes.
+
+![IMG_6986](https://github.com/user-attachments/assets/42d6be4d-ad68-433c-a91e-badd9e70779f)
+
+3. Drill four holes into each corner of the metal rectangle, as well as in each side of the stripes. Then countersink a screw with a countersunk head drill.
+4. Screw the four metal strips to the wood using flat-head screws.
+5.  Laser-cut the shape of the magnetic track out of wood. Use this as a template to create the track with the magnets. _The file for the laser cutter is attached._
+![IMG_6971](https://github.com/user-attachments/assets/66163316-3f0e-40ac-a8e3-ef92684e0917)
+
+6. Since the sheet is magnetic, neodymium magnets will adhere to it. These magnets are arranged in groups of three, oriented as either North-South-North or South-North-South. They should be aligned consistently along the curve. In the inner circle, all magnets are oriented with their south poles facing inward. In the middle circle, the magnets face north, and in the outer circle, they face south again.
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/8fa15370-8f8c-4414-92c3-0c9ab344120e" target="_blank">
+    <img src="https://github.com/user-attachments/assets/8fa15370-8f8c-4414-92c3-0c9ab344120e" alt="Mein Video" style="width: 400px; height: 560px;">
+  </a>
+</p>
+
+**_SAFETY WARNING!_** This experiment uses **extremely strong neodymium magnets.** These magnets, if not handled carefully, can cause serious injury, such as pinching fingers. Use gloves!
+    
+7. Due to the strength of the magnets, the rectangular sheet will adhere securely to the four stripes screwed to the wooden panel. To align the metal sheet with the panel, use spacers to adjust and align each side of the rectangle sequentially. **_Be careful during this process; the spacers are also used to prevent finger pinching._**
+8. Screw the metal sheet with the neodymium magnets to the wood panel.
+
+
+Place a Styrofoam plate and a light wooden plate on the magnetic track to secure it for transport and storage.
 
 To maintain the superconducting state, YBCO is cooled using liquid nitrogen, which keeps the temperature extremely low, often below 77 K (-196°C).
 
@@ -68,5 +98,5 @@ Below a certain magnetic field the superconductor expels nearly all the magnetic
 ### Flux Pinning
 In some cases the magnetic flux becomes locked or “pinned” inside a superconductor. Flux pinning is desirable in high - temperature ceramic superconductors to prevent flux movements which introduce a resistance and dissipates energy. The pinning is achieved through defects in the crystalline structure of the superconductor usually resulting from grain boundaries or impurities.
 
-## Change Log / Variants
+## Variants
 
