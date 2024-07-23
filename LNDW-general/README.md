@@ -56,8 +56,8 @@ Für die supraleitende Magnetschwebebahn:
 * 2x Supraleiter
 
 
-<div style="position: relative; width: 100%;">
-  <div style="width: calc(100% - 110px); display: inline-block; vertical-align: top;">
+<div style="overflow: hidden;">
+  <div style="float: left; width: calc(100% - 120px); padding-right: 10px;">
     <p>Für die Vorbereitung:</p>
     <ul>
       <li>Flüssiger Stickstoff</li>
@@ -67,10 +67,11 @@ Für die supraleitende Magnetschwebebahn:
       <li>Sicherheits-Handschuhe</li>
     </ul>
   </div>
-  <div style="width: 100px; display: inline-block; position: absolute; top: 0; right: 0;">
-    <img src="https://github.com/user-attachments/assets/3fb77d75-e3a3-4fd2-98d3-aea41ddd80a7" alt="Sicherheitsequipment" style="width: 100px; height: auto;">
+  <div style="float: right; width: 100px;">
+    <img src="https://github.com/user-attachments/assets/3fb77d75-e3a3-4fd2-98d3-aea41ddd80a7" alt="Sicherheitsequipment" style="width: 100%; height: auto;">
   </div>
 </div>
+
 
 
 
