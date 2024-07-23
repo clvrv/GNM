@@ -52,20 +52,21 @@ levitator warm up and dry after usage. We recommend that you store the levitator
 ### Construction of the maglev train
 
 **1. Base Preparation:** 
-* Cut a rectangular wooden panel as the base for the maglev train.
+* Cut a rectangular wooden panel as the base for the maglev train (length: 120cm, width: 100cm). 
    
 ![IMG_6941](https://github.com/user-attachments/assets/9d4fdb31-040f-468e-ac9d-3dbf54e74766)
 
 **2. Metal Sheet Preparation:**
-* Cut the magnetic sheet metal into a rectangle and four strips.
+* Cut the magnetic sheet metal into a rectangle (length: 100cm, width: 80cm) and four strips that are slightly smaller than the length of the rectangle (length: 95cm, width: 15cm).
 
 ![IMG_6986](https://github.com/user-attachments/assets/42d6be4d-ad68-433c-a91e-badd9e70779f)
 
 **3. Drilling and Screwing:**
-* Drill four holes into each corner of the metal rectangle, as well as in each side of the stripes.
-* Then countersink a screw with a countersunk head drill.
-* Screw the four metal strips to the wood using flat-head screws.
-  
+* Drill four holes into each corner of the metal rectangle, as well as on each side of the strips.
+* Countersink each hole using a countersunk head drill.
+* Place the four metal strips on the wood panel, ensuring they are evenly spaced to fit the metal rectangle. Position the strips 5 cm apart from each other and 2.5 cm from the edge of the longer side.
+* Secure the metal strips to the wood panel using flat-head screws.
+
 **4. Laser Cutting:**
 * Laser-cut the shape of the magnetic track out of wood. Use this as a template to create the track with the magnets. _The file for the laser cutter is attached._
 ![IMG_6971](https://github.com/user-attachments/assets/66163316-3f0e-40ac-a8e3-ef92684e0917)
