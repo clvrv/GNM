@@ -4,8 +4,7 @@ Owners: Clara Rodríguez
 
 Short Description
 
-
-
+![DSC05182](https://github.com/user-attachments/assets/db20dfd7-6457-476a-bb18-1f6f47001736)
 
 
 ## Setup
