@@ -24,10 +24,15 @@ A superconductor is frozen with liquid nitrogen in the magnetic field of systema
 * Liquid Nitrogen
 * 1x Screen-printed panel
 * 1x Magnetic sheet metal
-* Dewar flask - A container for transporting and storing liquid nitrogen
+* 1-3x Dewar flask - Containers for transporting and storing liquid nitrogen
 * 1x large ladle
 * 2x small ladles for cooling the superconductor
 * Safety gloves
+* Hot glue
+* Blue Velvet
+* 1x Styrofoam plate (_for transport & storage!_)
+* 1x Light Wood Panel (_for transport & storage!_)
+* 1x Tension belt (_for transport & storage!_)
 
 **_SAFETY WARNING!_** This experiment uses **extremely strong neodymium magnets.** These magnets, if not handled carefully, can cause serious injury. Keep the magnets away from magnetic materials and far from sensitive electronics.
 
@@ -84,11 +89,11 @@ levitator warm up and dry after usage. We recommend that you store the levitator
     
 **6. Sheet Alignment:**
 
-Due to the strength of the magnets, the rectangular sheet will adhere securely to the four strips screwed to the wooden panel. Use spacers to align each side of the rectangle sequentially.  **_Be careful during this process; the spacers are also used to prevent finger pinching._**
+* Due to the strength of the magnets, the rectangular sheet will adhere securely to the four strips screwed to the wooden panel. Use spacers to align each side of the rectangle sequentially.  **_Be careful during this process; the spacers are also used to prevent finger pinching._**
 
 **7. Final Assembly:**
 
-* Screw the metal sheet with the neodymium magnets to the wood panel. Screw the metal sheet with the neodymium magnets to the wood panel.
+* Screw the metal sheet with the neodymium magnets to the wood panel. 
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/db20dfd7-6457-476a-bb18-1f6f47001736" alt="Maglev Train Details" style="width:60%; height:auto;">
@@ -97,16 +102,23 @@ Due to the strength of the magnets, the rectangular sheet will adhere securely t
 _The idea behind this type of assembly is the ability to change each individual element. You can even alter the shape of the track if desired!_
  
 **8. Transport and Storage:**
-Place a Styrofoam plate and a light wooden plate on the magnetic track to secure it for transport and storage.
 
-### Setup
+* Place a Styrofoam plate and a light wooden plate on the magnetic track to secure with a tension belt it for transport and storage.
+
+**9. Decoration:**
+
+* To prevent anyone from getting hurt by touching the cold sheet of metal while the superconductor is cooling, you can place the laser cutting template on it. You can paint the stencil or glue some blue velvet to the stencil for a nicer look. 
+
+### The Experiment
+
+**_Wear protective gloves and take all safety precautions while conducting this experiment!_**
 
 1. Place the semiconductor in a small ladle on the track.
 2. Fill the ladle with liquid nitrogen. To induce the superconducting state, cool the YBCO using liquid nitrogen, which maintains a temperature below 77 K (-196°C).
 ![DSC05186](https://github.com/user-attachments/assets/846cf68a-8a0f-45dd-ba5d-00eee188d56a)
 
 3. When the liquid nitrogen stops boiling, transfer the remaining liquid into a Dewar flask.
-4. Using safety gloves, place the superconductor on the track — it should now levitate.
+4. Place the superconductor on the track — it should now levitate.
 5. In order to increase the levitating time, you can wrap the YBCO-bulks in absorbent paper and then attached them with ROXOLID Alu Tape (adhesive tape).
    
 ### Troubleshooting
