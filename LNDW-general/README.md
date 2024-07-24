@@ -1,6 +1,5 @@
 # General Setup for The Long Night of the Science 
 
-Owners: Clara Rodríguez
 
 ![DSC02881 Kopie](https://github.com/user-attachments/assets/a1603fab-1d57-4bf0-9a55-baccbcf69b4a)
 
@@ -86,7 +85,7 @@ For the live camera projection:
 * Monitor
 * HDMI cable
 * Headphones
-* Link to youtube video: https://studio.youtube.com/video/VPpruTylhxI/edit 
+* Link to youtube video: [Humans Behind the Machine by Victoria Martinez & Denise Stockmann](https://youtu.be/VPpruTylhxI)
   
 ### General Setup 
 
